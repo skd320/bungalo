@@ -10,6 +10,16 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Sami">
         <activity
+            android:name=".MountainsActivity"
+            android:exported="true">
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+        </activity>
+
+        <activity
             android:name=".activity_terms_conditions"
             android:exported="true" />
         <activity
@@ -18,11 +28,7 @@
         <activity
             android:name=".MainActivity"
             android:exported="true">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
     </application>
 
