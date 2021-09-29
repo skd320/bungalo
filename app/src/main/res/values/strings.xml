@@ -4,6 +4,15 @@
     <string name="montana_lago">Montaña Lago</string>
     <string name="montana_sol">Montaña del Sol</string>
     <string name="mountains">Montañas</string>
-    <string name="estrellas">Estrellas</string>
-    <string name="flechas">Flecha</string>
+
+    <string name="flecha">Flecha</string>
+    <string name="review">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla dignissim feugiat libero, in es urna molestie. Sed sit amet nunc id sapien consequat malesuada.
+
+
+    </string>
+    <string name="titulo_lago">Montaña Lago</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="star">Estrellita</string>
 </resources>
